@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "apexcharts": "^3.41.0",
+    "lodash": "^4.17.21"
+  }
+}
